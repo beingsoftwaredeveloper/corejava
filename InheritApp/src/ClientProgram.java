@@ -5,7 +5,7 @@ public class ClientProgram {
 	public static void main(String[] args) {
 
 		Student student = new Student(1,6,"Rama", "Achalla", new Date());
-		System.out.println("Roll no - " + student.getRollNo());
+		System.out.println("Roll  no - " + student.getRollNo());
 		System.out.println("Name - " + student.getFirstName() + " " + student.getLastName());
 		System.out.println("Grade - " + student.getGrade());
 		System.out.println("Date of Birth - " + student.getDateOfBirth());

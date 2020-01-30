@@ -7,7 +7,7 @@ public class Student extends Person {
 	
 	
 	public int getRollNo() {
-		return rollNo;
+		return rollNo; 
 	}
 
 

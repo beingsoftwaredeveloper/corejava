@@ -8,7 +8,7 @@ public class Professor extends Person {
 		return profId;
 	}
 	public void setProfId(int profId) {
-		this.profId = profId;
+		this.profId = profId; 
 	}
 	public String getSubjectsToTeach() {
 		return subjectsToTeach;
